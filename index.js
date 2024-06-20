@@ -82,7 +82,7 @@
 
 @keyframes neon-border {
     from {
-        border-color: yellow;
+        border-color: red;
         box-shadow: 0 0 10px yellow, 0 0 20px yellow, 0 0 30px yellow;
               }
     to {
@@ -95,7 +95,7 @@
          padding: 8px;
          }
          h1 {
-         color: whitesmoke;
+         color: yellowsmoke;
          text-align: center;
          }
          h4 {
@@ -103,7 +103,7 @@
          }
          p {
            text-align: center;
-           color: whitesmoke;
+           color: yellowsmoke;
          }
          .form-item label {
          font-size: 13px;
@@ -112,8 +112,8 @@
          display: block; 
          }
          input, button {
-         background: ghostwhite;
-         color: black; 
+         background: narutoorange;
+         color: yellow; 
          border: solid 1px #222;
          box-sizing: border-box;
          width: 100%;
